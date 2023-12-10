@@ -1,6 +1,6 @@
 ![logo](https://github.com/Shaon22/Shaon22/blob/main/Cover%20Photo.png)
 # 💫 About Me:
-I am currenty working MERN stack development<br>I'm lokking to collaborate on some unique projects<br>I'm exploring Next JS<br>Fun fact: so many errors,so many exitement<br>
+I am currenty working on MERN stack development<br>I'm lokking to collaborate on some unique projects<br>I'm exploring Next JS<br>Fun fact: so many errors,so many exitement<br>
 
 
 ## 🌐 Socials:
